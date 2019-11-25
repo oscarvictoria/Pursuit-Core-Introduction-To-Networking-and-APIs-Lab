@@ -37,6 +37,10 @@ API Scavenger Hunt!
 For each of the questions below, identify a website and search query that will give you the appropriate JSON.  Paste the url and a snippet of the json below.  Googling the category + API will generally take you to where you need.  Ex. https://lmgtfy.com/?q=cat+fact+api
 
 1. A random cat fact
+```
+Answer: 
+
+```
 1. A list of 150 random users in English.
 1. All the repos on Github with Pursuit their name
 1. All the JavaScript repos on Github with Pursuit in their name
