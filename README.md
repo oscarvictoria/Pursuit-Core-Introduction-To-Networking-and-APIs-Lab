@@ -7,14 +7,52 @@ Status Code Scavenger Hunt!
 Use Postman to find each of the following HTTP codes:
 
 
-1. 200
+1. 200 
+
+```
+Ok
+
+```
 1. 301
+```
+Movied permenatly 
+```
 1. 400
+
+```
+bad request 
+```
 1. 401
+
+```
+
+Unauthorized
+
+```
 1. 403
+
+```
+forbidden 
+
+```
 1. 404
+
+```
+not found
+
+```
 1. 418
+
+```
+Im a teapot
+
+```
 1. 500
+
+```
+internal server error
+
+```
 
 
 For each of the questions below, write:
